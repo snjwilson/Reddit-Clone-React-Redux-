@@ -1,3 +1,12 @@
+INSTRUCTIONS TO RUN THE APP
+
+-change directory to the project directory
+-type 'npm start' to deploy the development server
+-wait for the site to render as it will only be rendered once all data is fetched from the endpoints
+-forgive the quality of the pictures. They were tiny :(
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

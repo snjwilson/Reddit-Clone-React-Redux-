@@ -11,3 +11,46 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.small-grey-border {
+  border: 2px solid grey;
+  padding: 10px;
+}
+
+.center-display{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.padded-div{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.float-left{
+  float:left;
+  padding: 5px 10px 5px 10px;
+}
+
+.float-left-clear{
+  clear: right;
+  padding: 5px 10px 5px 10px;
+}
+
+.list-center-container{
+  text-align: center;
+}
+
+.list-center-div{
+  display: inline-block;
+}
+
+.post-title{
+  text-align: center;
+  color: #ff5733;
+}
+
+.navbar-logo{
+  color: #ff5733;
+}
